@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+* button {
+  margin: 30px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: aqua;
+  font-weight: bold;
+}/*# sourceMappingURL=style.css.map */
